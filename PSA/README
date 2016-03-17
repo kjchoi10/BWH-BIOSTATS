@@ -1,0 +1,21 @@
+Biostatistical programming at Brigham and Women's Hospital for the Center of Surgery and Public Health
+
+The programs will mostly be SAS programs that help research fellows with data manipulation and cleaning tasks.
+
+PSA perception study:
+
+Abstract:
+
+Prostate cancer is the second leading cause of death among men and a significant socioeconomic burden on the health care system (Brawley, 2012). A review by Roehrborn et al. in 2011 estimated the total economic burden of prostate cancer and its management in the United States to be in excess of $11.5 billion (Roehrborn, 2011).
+
+Much of this burden has been attributed to the controversial, ubiquitous use of the prostate specific antigen; critics argue that PSA screening leads to overdiagnosis and therefore unnecessary interventions and their accompanying morbidity and cost (Miller 2012).
+
+In response to the conflicting results of two large randomized studies from the US and Europe (Andriole 2009, Schroder 2009), the U.S. Preventive Services Task Force (USPSTF) concluded in 2012 that there is insufficient evidence to support the use of routine screening of in the general population, and therefore recommended against PSA-based screening for prostate cancer, regardless of age (Moyer, 2012).
+
+In consequence, overall rates of PSA utilization have decreased after the 2012 recommendation changes (Aslani 2014, Cohn 2014, Bhindi 2015). In the absence of payer changes in reimbursements for the test, this trend has attributed to provider PSAperceptions against the use of PSA screening use (Swan 2003, Close 1998, Eisen 1999, Merrill 2001, Moran 2000, Steele 2000, Finney Rutten 2005). However, there is very limited evidence evaluating what, if any, impact the USPSTF’s recommendations have had on how providers counsel patients considering PSA screening nor how patient perceptions of the PSA test have evolved since the 2012 guideline release (Orom 2014). On the basis of these shortcomings, we (1) examine PSA test use among subgroups defined by key demographic characteristics and (2) explore the association of prostate cancer screening counseling with patient sociodemographic factors in a nationally representative sample.
+
+Statistical analysis:
+
+All analyses were conducted using the jackknife method for replicate weights#### to allow for the complex survey design of HINTS and to provide representative estimates of the U.S. population. A full-sample weight was used to calculate population estimates and ensured valid inferences from the sample to the US population, correcting for non-response and non-coverage bias. Weighted, unadjusted prevalence estimates (n, %) were calculated for the prostate cancer-related items in HINTS 4, Cycle 3, in order to assess overall population awareness and knowledge of prostate cancer screening and treatment recommendations. Weighted, multivariable logistic regression models were used to test the predicted probability that sociodemographic characteristics independently predict PSA utilization counseling.
+
+All statistical analyses were performed using the Complex Samples Package for SAS 9.4 (Cary, NC), with a two-sided significance level set at p<0.05. An institutional review board waiver was obtained in accordance with the use of de-identified administrative data.
